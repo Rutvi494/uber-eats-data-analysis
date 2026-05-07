@@ -6,6 +6,9 @@ This project focuses on analyzing Uber Eats/food delivery data to identify custo
 ## Problem Statement
 The goal of this project is to analyze food delivery data and extract meaningful insights that can help improve customer satisfaction, delivery efficiency, and business decision-making.
 
+## Dataset Link
+https://www.kaggle.com/datasets/tasnimniger/foodhub-data
+
 ## Technologies Used
 - Python
 - Pandas
